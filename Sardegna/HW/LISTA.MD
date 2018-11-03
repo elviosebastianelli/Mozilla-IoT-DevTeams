@@ -1,0 +1,2 @@
+# Lista Hardware Disponibile
+
