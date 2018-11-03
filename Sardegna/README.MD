@@ -1,16 +1,16 @@
 
-* Mozilla-IoT-DevTeams - Sardegna
+# Mozilla-IoT-DevTeams - Sardegna
 
 Benvenuti sulla Pagina del gruppo Sardo di Sviluppo legato al progetto [Mozilla-IoT](https://iot.mozilla.org)
 
-** Membri del Team
+## Membri del Team
 
-- Edoardo Viola (@edovio)
-- 
+* Edoardo Viola (@edovio)
+* 
 
 
-** Hardware Disponibile
-- [Lista Hardware]() 
+## Hardware Disponibile
+* [Lista Hardware]() 
 
-** Progetti Sviluppati
+## Progetti Sviluppati
 
