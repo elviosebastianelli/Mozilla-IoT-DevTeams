@@ -10,7 +10,7 @@ Benvenuti sulla Pagina del gruppo Sardo di Sviluppo legato al progetto [Mozilla-
 
 
 ## Hardware Disponibile
-* [Lista Hardware]() 
+* [Lista Hardware](https://github.com/MozillaItalia/Mozilla-IoT-DevTeams/blob/master/Sardegna/HW/LISTA.MD) 
 
 ## Progetti Sviluppati
 
